@@ -3,6 +3,5 @@ I am a full stack developer with React, SolidJS, and Razorpages experience. I am
 
 ![](https://raw.githubusercontent.com/Henry-Hiles/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Henry-Hiles/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
 ![](https://raw.githubusercontent.com/Henry-Hiles/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Henry-Hiles/github-stats/master/generated/languages.svg#gh-light-mode-only)
